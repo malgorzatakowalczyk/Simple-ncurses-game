@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <ncurses.h>
 #include <pthread.h>
-#include <function.h>
+#include "function.h"
 #include <time.h>
 
 int max_x, max_y, oneThird, twoThirds,half;
